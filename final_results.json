@@ -1,0 +1,62 @@
+[
+  {
+    "test": "Test 1",
+    "method": "One-sample t",
+    "stat_label": "t",
+    "statistic": 11.47252528569852,
+    "df": "111,412",
+    "p": 9.42907335475295e-31,
+    "estimate": "0.5168",
+    "ci": "[0.5140, 0.5197]",
+    "reject": true,
+    "practical": "matters"
+  },
+  {
+    "test": "Test 2",
+    "method": "two_sample_t t",
+    "stat_label": "t",
+    "statistic": 143.8708777353439,
+    "df": "403,752",
+    "p": 0.0,
+    "estimate": "7.23 moves",
+    "ci": "[7.13,7.32]",
+    "reject": true,
+    "practical": "matters"
+  },
+  {
+    "test": "Test 3",
+    "method": "Two-proportion z",
+    "stat_label": "z",
+    "statistic": -81.17963262191351,
+    "df": "n/a",
+    "p": 0.0,
+    "estimate": "-11.04 pp",
+    "ci": "[-11.30,-10.77]",
+    "reject": true,
+    "practical": "matters"
+  },
+  {
+    "test": "Test 4",
+    "method": "Chi-square",
+    "stat_label": "chi2",
+    "statistic": 47760.38745302431,
+    "df": "8",
+    "p": 0.0,
+    "estimate": "V = 0.172",
+    "ci": "[0.171, 0.173]",
+    "reject": true,
+    "practical": "Matters"
+  },
+  {
+    "test": "Test 5",
+    "method": "F-test",
+    "stat_label": "F",
+    "statistic": 0.9217614715937625,
+    "df": "202,385,202,086",
+    "p": 6.153720637932129e-75,
+    "estimate": "0.922",
+    "ci": "[0.914,0.930]",
+    "reject": true,
+    "practical": "Negligible"
+  }
+]
