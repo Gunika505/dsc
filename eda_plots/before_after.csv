@@ -1,0 +1,14 @@
+,before (raw),after (encoded)
+rows,810463.0,808008.0
+columns,21.0,56.0
+missing Elo values,111.0,0.0
+mean white_elo,1623.5693,1624.1821
+median white_elo,1623.0,1623.0
+mean black_elo,1614.6094,1615.179
+mean total_moves,34.0354,34.0466
+median total_moves,32.0,32.0
+White mean score,0.5232,0.5234
+share blitz (%),37.7409,37.8484
+share classical (%),32.57,32.6617
+share bullet (%),29.4058,29.4899
+share correspondence (%),0.2833,
